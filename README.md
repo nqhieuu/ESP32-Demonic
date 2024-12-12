@@ -45,7 +45,7 @@ Thiết bị phá sóng hoạt động bằng cách phát ra tín hiệu gây nh
 
 ## **Sử Dụng**
 - Cấp nguồn cho thiết bị thông qua chân Type-C
-- Kết nối với WiFi: Demonic (mật khẩu mặc định: propropro)
+- Kết nối với WiFi: Demonic và Mật Khẩu: propropro
 - Truy cập 192.168.4.1
 
 ## **Góp Ý và Phát Triển**
@@ -57,3 +57,4 @@ Dự án này chỉ dành cho mục đích nghiên cứu và giáo dục. Ngư�
 ## **Giấy Phép**
 Dự án này được cấp phép theo giấy phép GNU General Public License v3.0. Bạn có thể xem toàn bộ nội dung giấy phép tại [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
+<h1 align="center"> NGUYEN QUANG HIEU </h1>
