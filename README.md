@@ -45,7 +45,7 @@ Thiết bị phá sóng hoạt động bằng cách phát ra tín hiệu gây nh
 
 ## **Sử Dụng**
 - Cấp nguồn cho thiết bị thông qua chân Type-C
-- Kết nối với WiFi: Demonic và Mật Khẩu: propropro
+- Kết nối với **WiFi: Demonic** và **Mật Khẩu: propropro**
 - Truy cập 192.168.4.1
 
 ## **Góp Ý và Phát Triển**
