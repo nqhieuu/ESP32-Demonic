@@ -34,8 +34,11 @@ Thiết bị phá sóng hoạt động bằng cách phát ra tín hiệu gây nh
 ## **Yêu Cầu Hệ Thống**
 - **Phần Cứng:**
   - ESP32
-  - Anten phù hợp cho tần số 2.4GHz
+  - nRF24L01
   - Mạch nguồn ổn định
+  - Tụ 10 - 100 uF
+  - Nút bấm
+  - Angten
 
 - **Phần Mềm:**
   - Demonic / Demonic Pro / Demonic Pro Max
@@ -49,7 +52,7 @@ Thiết bị phá sóng hoạt động bằng cách phát ra tín hiệu gây nh
 Chúng tôi luôn chào đón các góp ý và sự tham gia phát triển từ cộng đồng. Hãy tạo các pull request hoặc issues nếu bạn có ý tưởng hoặc gặp vấn đề.
 
 ## **Pháp Lý**
-Dự án này chỉ dành cho mục đích nghiên cứu và giáo dục. Người dùng phải tự chịu trách nhiệm về việc tuân thủ các quy định pháp luật liên quan đến việc sử dụng các thiết bị chứa phần mềm và phần mềm DEMONIC.
+Dự án này chỉ dành cho mục đích nghiên cứu và giáo dục. Người dùng phải tự chịu trách nhiệm về việc tuân thủ các quy định pháp luật liên quan đến việc sử dụng các thiết bị chứa phần mềm và phần mềm DEMONIC nói chung.
 
 ## **Giấy Phép**
 Dự án này được cấp phép theo giấy phép GNU General Public License v3.0. Bạn có thể xem toàn bộ nội dung giấy phép tại [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
