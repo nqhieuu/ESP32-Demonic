@@ -28,7 +28,7 @@ Thiết bị phá sóng hoạt động bằng cách phát ra tín hiệu gây nh
 - **Phá Sóng Bluetooth:** Can thiệp vào các thiết bị sử dụng Bluetooth, gây gián đoạn kết nối.
 - **Spam WiFi:** Tạo ra hàng loạt WiFi đồng thời với địa chỉ khác nhau, gây gián đoạn kết nối.
 - **Spam Số Điện Thoại:** Tạo ra hàng loạt tin nhắn và cuộc gọi rác, gây khó chịu.
-- **Điều Khiển:** Thông qua kết nối WebServer từ mạng cục bộ và nút bấm có sẵn.
+- **Điều Khiển:** Thông qua WebServer và nút bấm có sẵn.
 - **Phạm Vi Hoạt Động:** Hoạt động trong băng tần 2.4GHz, với phạm vi tùy thuộc vào công suất và môi trường sử dụng.
 
 ## **Yêu Cầu Hệ Thống**
@@ -46,7 +46,7 @@ Thiết bị phá sóng hoạt động bằng cách phát ra tín hiệu gây nh
 ## **Sử Dụng**
 - Cấp nguồn cho thiết bị thông qua chân Type-C
 - Kết nối với **WiFi: Demonic** và **Mật Khẩu: propropro**
-- Truy cập **192.168.4.1**
+- Truy cập **192.168.4.1** để điều khiển hoặc qua nút nhấn
 
 ## **Góp Ý và Phát Triển**
 Chúng tôi luôn chào đón các góp ý và sự tham gia phát triển từ cộng đồng. Hãy tạo các pull request hoặc issues nếu bạn có ý tưởng hoặc gặp vấn đề.
