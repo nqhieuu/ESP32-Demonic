@@ -1,7 +1,7 @@
-# **DEMONIC**
+# **ESP32 DEMONIC**
 
 ## **Giới Thiệu**
-Dự án này là một thiết bị phá sóng có khả năng can thiệp và làm gián đoạn các tín hiệu không dây trong băng tần 2.4GHz, bao gồm WiFi, BlueTooth ngoài ra còn có Số Điện Thoại. Thiết bị này được phát triển với mục đích nghiên cứu và giáo dục, giúp hiểu rõ hơn về cách hoạt động của các mạng không dây và bảo mật.
+Dự án này là một thiết bị phá sóng có khả năng can thiệp và làm gián đoạn các tín hiệu không dây trong băng tần 2.4GHz, bao gồm WiFi, BlueTooth. Thiết bị này được phát triển với mục đích nghiên cứu và giáo dục, giúp hiểu rõ hơn về cách hoạt động của các mạng không dây và bảo mật.
 
 ## **Cảnh Báo**
 Việc sử dụng các thiết bị chứa phần mềm hay phần mềm DEMONIC để phá sóng các tín hiệu không dây là bất hợp pháp trong hầu hết các quốc gia. Mục đích của dự án này là để giáo dục và nghiên cứu. Người dùng phải đảm bảo tuân thủ các quy định pháp luật hiện hành và chỉ sử dụng thiết bị trong các môi trường thí nghiệm, được cấp phép.
@@ -26,8 +26,9 @@ Thiết bị phá sóng hoạt động bằng cách phát ra tín hiệu gây nh
 ## **Tính Năng**
 - **Phá Sóng WiFi:** Ngăn chặn các thiết bị kết nối mạng WiFi trong phạm vi hoạt động.
 - **Phá Sóng Bluetooth:** Can thiệp vào các thiết bị sử dụng Bluetooth, gây gián đoạn kết nối.
-- **Spam WiFi:** Tạo ra hàng loạt WiFi đồng thời với địa chỉ khác nhau, gây gián đoạn kết nối.
-- **Spam Số Điện Thoại:** Tạo ra hàng loạt tin nhắn và cuộc gọi rác, gây khó chịu.
+- **Tạo WiFi Rác:** Tạo ra hàng loạt WiFi đồng thời với địa chỉ khác nhau, gây gián đoạn kết nối.
+- **Tạo BlueTooth Rác:** Tạo ra hàng loạt BlueTooth đồng thời với địa chỉ khác nhau, gây gián đoạn kết nối.
+- **Tạo Thư Rác Số Điện Thoại:** Tạo ra hàng loạt tin nhắn và cuộc gọi rác, gây khó chịu.
 - **Điều Khiển:** Thông qua WebServer và nút bấm có sẵn.
 - **Phạm Vi Hoạt Động:** Hoạt động trong băng tần 2.4GHz, với phạm vi tùy thuộc vào công suất và môi trường sử dụng.
 
@@ -35,7 +36,6 @@ Thiết bị phá sóng hoạt động bằng cách phát ra tín hiệu gây nh
 - **Phần Cứng:**
   - ESP32
   - nRF24L01
-  - Mạch nguồn ổn định
   - Tụ 10 - 100 uF
   - Nút bấm
   - Angten
