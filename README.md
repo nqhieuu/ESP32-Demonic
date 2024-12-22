@@ -47,6 +47,13 @@ Thiết bị phá sóng hoạt động bằng cách phát ra tín hiệu gây nh
 - Cấp nguồn cho thiết bị thông qua chân Type-C
 - Kết nối với **WiFi: Demonic** và **Mật Khẩu: propropro**
 - Truy cập **192.168.4.1** để điều khiển hoặc qua nút nhấn
+- [Home](https://github.com/nqhieuu/ESP32-Demonic/blob/main/IMG_1.png)
+- [ScanWiFi](https://github.com/nqhieuu/ESP32-Demonic/blob/main/IMG_2.png)
+- [DeautherWiFi](https://github.com/nqhieuu/ESP32-Demonic/blob/main/IMG_3.png)
+- [BeaconSpamWiFi](https://github.com/nqhieuu/ESP32-Demonic/blob/main/IMG_4.png)
+- [JammerBlueTooth](https://github.com/nqhieuu/ESP32-Demonic/blob/main/IMG_5.png)
+- [BeaconSpamPhoneNumber](https://github.com/nqhieuu/ESP32-Demonic/blob/main/IMG_6.png)
+- [Settings](https://github.com/nqhieuu/ESP32-Demonic/blob/main/IMG_7.png)
 
 ## **Góp Ý và Phát Triển**
 Chúng tôi luôn chào đón các góp ý và sự tham gia phát triển từ cộng đồng. Hãy tạo các pull request hoặc issues nếu bạn có ý tưởng hoặc gặp vấn đề.
